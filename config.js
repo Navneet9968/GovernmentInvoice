@@ -5,13 +5,13 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig={
-  apiKey: "AIzaSyCB7zBWpsGoKJgVqxbQxV3i-9ibQ8eYXSo",
-  authDomain: "invoice-2-e2535.firebaseapp.com",
-  projectId: "invoice-2-e2535",
-  storageBucket: "invoice-2-e2535.appspot.com",
-  messagingSenderId: "406319759564",
-  appId: "1:406319759564:web:83d1295f877927eb2f0269",
-  measurementId: "G-W3J94JJR4X"
+  apiKey: "AIzaSyDNUdK6q43XMnxZmTDQvTxCWIhjN6lbIdw",
+  authDomain: "invoice-system-518a6.firebaseapp.com",
+  projectId: "invoice-system-518a6",
+  storageBucket: "invoice-system-518a6.appspot.com",
+  messagingSenderId: "712591745815",
+  appId: "1:712591745815:web:a0fbf26a921bc67c4c0d52",
+  measurementId: "G-6TW2WGDFP1"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);

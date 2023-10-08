@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package":"com.github.sanketscode.DS_Supplier_App",
+      "package": "com.github.sanketscode.DS_Supplier_App",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -28,6 +28,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3cb2dfc8-134d-4f03-a123-03f3a5fd66b2"
+      }
     }
   }
 }
